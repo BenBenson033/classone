@@ -1,0 +1,28 @@
+.mother{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: aqua;
+}
+img{
+    width: 100px;
+}
+.baby1{
+    padding-left: 100px;
+    grid-template-columns: auto;
+}
+.baby3{
+    padding-right: 50px;
+    grid-template-columns: auto;
+}
+.baby2{
+    font-style: italic;
+    text-align: left;
+}
+.welcome{
+background-color: blue;
+justify-content: space-between;
+grid-template-columns: 50%;
+flex: 100%;
+padding: 10px;
+}

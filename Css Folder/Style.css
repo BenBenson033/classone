@@ -1,0 +1,35 @@
+/*Header container*/
+.header-container{
+    background-color: rgb(200, 22, 22);
+    width:30;;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-container {
+    display: inline-block;
+    padding: 10px 20px;
+}
+.stygri {
+    display: grid;
+}
+h4{
+    color: red;
+}
+.newclass {font-size: 25px; color: blue !important;
+
+}
+.Major {
+    background-color: peru;
+    align-content: center;
+    width: 700px;
+}
+.Abi {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.Paa {
+    padding: 5px;
+
+}

@@ -1,0 +1,16 @@
+h1{
+    background-color:coral
+}
+.Checklist{
+    display: flex;
+}
+h2{
+    font-size: smaller;
+}
+.Everything{
+    background-color: burlywood;
+}
+
+.New{
+    padding: 10px;
+}
